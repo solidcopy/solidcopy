@@ -1,4 +1,10 @@
-### Hi there 👋
+### ただひと＠来年からフリーランスエンジニア
+
+# GitHub活動の統計
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solidcopy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solidcopy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **solidcopy/solidcopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
