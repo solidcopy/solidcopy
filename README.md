@@ -18,6 +18,67 @@ Python、Go言語、Rustもできます。
 
 実務経験はありませんが、小規模なツールをいくつか開発してます。
 
+## 公開中のリポジトリ
+
+### utag (Go版)
+
+[リポジトリ](https://github.com/solidcopy/utag_go)
+
+MP3などの音楽ファイルのタグを一括変更するCLIアプリケーション。
+
+技術要素
+
+- Go言語
+- CLIアプリケーション
+- ファイル操作
+
+### bcbc (Rust版)
+
+[リポジトリ](https://github.com/solidcopy/bcbc_rust)
+
+バックアップが正常に取れているか確認するCLIアプリケーション。
+
+2つのグループに分散したHDDに大量のファイルをバックアップしているので、
+片方のグループにしか保存されていないファイルがないか、
+同じファイルのデータが一致するかを確認する。
+
+技術要素
+- Rust
+- CLIアプリケーション
+- ファイル操作
+- ハッシュ計算
+
+### bcbc (Go版)
+
+[リポジトリ](https://github.com/solidcopy/bcbc)
+
+上記bcbcのGo言語版。
+
+### tags (Rust版)
+
+[リポジトリ](https://github.com/solidcopy/rust-tags)
+
+utagの前身となったRust版。
+
+### tags (Python版)
+
+[リポジトリ](https://github.com/solidcopy/tags)
+
+tags (Rust版)の元になったPython版。
+
+### oreno
+
+[リポジトリ](https://github.com/solidcopy/oreno)
+
+作りかけで止まっている文書作成ツール。
+
+技術要素
+
+- Rust
+- CLIアプリケーション
+- ファイル操作
+- 言語パーサー
+
 ## 「ただひと」について
 
 本名ではありません。
